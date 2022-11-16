@@ -82,9 +82,10 @@
       </a> &nbsp;&nbsp;
       <br>
     </div>
-     <center><a href="musawar.me" ></center>
+     <center><a href="musawar.me" >
      musawar.me
       </a> &nbsp;&nbsp;
+       </center>
       <br>
     </div>
    </td>

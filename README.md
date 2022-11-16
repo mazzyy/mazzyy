@@ -64,8 +64,10 @@
     <div align="center">
       <h2><b>Contact Through</b></h2>
       <br>
-      <br>
-   
+    
+      <a href="https://www.instagram.com/taabannn/" target="_blank">
+      <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      </a> &nbsp;&nbsp;
       <a href="mailto:musawar.soomro25@gmail.com" >
       <img align="center" alt="Abdul Musawar | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;

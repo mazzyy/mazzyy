@@ -62,15 +62,10 @@
    </td>
    <td>
     <div align="center">
-      <h2><b>How to Reach Me</b></h2>
+      <h2><b>Contact Through</b></h2>
       <br>
-      <p>Please don't hesitate to contact me 
-        <br>if you need further information or help.
-      </p>
       <br>
-      <a href="https://www.instagram.com/musawaristic/" target="_blank">
-      <img align="center" alt="Abdul Musawar | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
-      </a> &nbsp;&nbsp;
+   
       <a href="mailto:musawar.soomro25@gmail.com" >
       <img align="center" alt="Abdul Musawar | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;

@@ -82,8 +82,8 @@
       </a> &nbsp;&nbsp;
       <br>
     </div>
-     <a align="center" href="https://www.musawar.me" >
-     musawar.me
+       <a  href="https://www.musawar.me" >
+          musawar.me
       </a> &nbsp;&nbsp;
        
       <br>

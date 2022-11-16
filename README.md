@@ -67,7 +67,7 @@
         <br>
       </p>
       <br>
-      <a href="https://www.instagram.com/musawaristic/" target="_blank">
+      <a href="https://www.instagram.com/musawaristic/" target="_blank" color="brown">
       <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
       </a> &nbsp;&nbsp;
       <a href="mailto:musawar.soomro25@gmail.com" >

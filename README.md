@@ -20,7 +20,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="200em" src="https://media-exp1.licdn.com/dms/image/C5616AQFraNhlOvMg1Q/profile-displaybackgroundimage-shrink_350_1400/0/1641203424432?e=1674086400&v=beta&t=gXU7o2BgfXvR5FBbWLE6aITEd-KRSIxufj70ZRJntT8"/>
+        <img height="100em" src="https://raw.githubusercontent.com/mazzyy/mazzyy/main/developer.jpg"/>
      </p>
     </td>
   </tr>

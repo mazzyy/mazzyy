@@ -68,17 +68,17 @@
         <br>if you need further information or help.
       </p>
       <br>
-      <a href="https://www.instagram.com/taabannn/" target="_blank">
-      <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      <a href="https://www.instagram.com/musawaristic/" target="_blank">
+      <img align="center" alt="Abdul Musawar | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
       </a> &nbsp;&nbsp;
-      <a href="mailto:tabansly78@gmail.com" >
-      <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      <a href="mailto:musawar.soomro25@gmail.com" >
+      <img align="center" alt="Abdul Musawar | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
-      <img align="center" alt="Taban Soleymani | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
+      <a href="https://join.skype.com/invite/musawar6" >
+      <img align="center" alt="Abdul Musawar  | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/TabanSoleymani/" >
-      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+      <a href="https://www.linkedin.com/in/musawar/" >
+      <img align="center" alt="Abdul Musawar  | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
       <br>
     </div>

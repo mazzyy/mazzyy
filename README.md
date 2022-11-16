@@ -63,8 +63,8 @@
     <div align="center">
        <h2><b>Reach Me Through</b></h2>
       <br>
-   <p dir="auto">Please don't hesitate to contact me 
-        <br>if you need further information or help.
+   <p dir="auto"> 
+        <br>
       </p>
       <br>
       <a href="https://www.instagram.com/musawaristic/" target="_blank">

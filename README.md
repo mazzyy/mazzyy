@@ -54,7 +54,7 @@
      <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
      <br>
      <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
-     <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
+     <img src="https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb"/>
      <br>
      <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
      <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm"/>

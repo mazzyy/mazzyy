@@ -32,7 +32,7 @@
      <img src="https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript"/>
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
      <br>
-     <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
+     <img src="https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel"/>
      <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>
      <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
      <br>

@@ -82,12 +82,14 @@
       </a> &nbsp;&nbsp;
       <br>
     </div>
-       <a  href="https://www.musawar.me" >
-          musawar.me
+      <div>
+      <a href="https://www.musawar.me/" >
+      <p  align="center"> musawar.me </p>
       </a> &nbsp;&nbsp;
-       
       <br>
-    </div>
+    </div> 
+     </div>
+   
    </td>
   
 </table>

@@ -20,7 +20,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="100em" src="https://raw.githubusercontent.com/mazzyy/mazzyy/main/developer.jpg"/>
+        <img height="200em" src="https://raw.githubusercontent.com/mazzyy/mazzyy/main/developer.jpg"/>
      </p>
     </td>
   </tr>

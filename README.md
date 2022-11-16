@@ -1,21 +1,18 @@
 ### Hi there 👋
 
-## I'm Taban Soleymani
-![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
+## I'm Abdul Musawar 
+
 <table>
   <tr>
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>👑 &nbsp; Junior Java Back-end Developer </li>
+        <li>📚 &nbsp; Studying M.Sc of Data Science at <a href="https://www.fau.eu/">FAU</a></li>
+         <li>🎓 &nbsp; B.Sc of Computer Science at <a href="https://ut.ac.ir/en">UT</a></li>
+        <li>👑 &nbsp; Full Stack Developer and Data Scientist </li>
         <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
        </ul>
-       <p align="center">
-         <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </p>
+    
     </td>
     <td>
      <p align="center">
@@ -26,16 +23,15 @@
   <tr>
    <td>
      <h2> 🛠 &nbsp;Tech Stack</h2>
-     <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
-     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
-     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
+     <img src="https://img.shields.io/badge/-05122A?style=flat&logo=PHP"/>
+     <img src="https://img.shields.io/badge/-05122A?style=flat&logo=Javascript"/>
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
      <br>
-     <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
+     <img src="https://img.shields.io/badge/-05122A?style=flat&logo=laravel"/>
      <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>
      <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
      <br>
-     <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"/>
+
      <img src="https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab"/>
      <img src="https://img.shields.io/badge/-Octave-05122A?style=flat&logo=octave"/>
      <img src="https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=jupyter"/>
@@ -54,6 +50,7 @@
      <br>
      <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
      <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
+     <img src="https://img.shields.io/badge/-05122A?style=flat&logo=mongodb"/>
      <br>
      <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
      <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm"/>
@@ -63,21 +60,15 @@
     <div align="center">
       <h2><b>How to Reach Me</b></h2>
       <br>
-      <p>Please don't hesitate to contact me 
-        <br>if you need further information or help.
-      </p>
       <br>
       <a href="https://www.instagram.com/taabannn/" target="_blank">
-      <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      <img align="center" alt="Abdul Musawar | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
       </a> &nbsp;&nbsp;
-      <a href="mailto:tabansly78@gmail.com" >
-      <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      <a href="mailto:musawar.soomro25@gmail.com" >
+      <img align="center" alt="Abdul Musawar | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
-      <img align="center" alt="Taban Soleymani | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
-      </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/TabanSoleymani/" >
-      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+      <a href="https://www.linkedin.com/in/musawar/" >
+      <img align="center" alt="Abdul Musawar | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
       <br>
     </div>

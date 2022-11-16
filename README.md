@@ -63,7 +63,9 @@
     <div align="center">
        <h2><b>Reach Me Through</b></h2>
       <br>
-     
+   <p dir="auto">Please don't hesitate to contact me 
+        <br>if you need further information or help.
+      </p>
       <br>
       <a href="https://www.instagram.com/musawaristic/" target="_blank">
       <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />

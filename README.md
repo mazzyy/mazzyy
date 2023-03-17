@@ -5,5 +5,5 @@
                 </li>
                 <li>📚&nbsp; Working in Puma Glob as IT Could </li>
                 <li>👑 &nbsp; Full Stack Developer and Data Scientist </li>
-                <li>🤔 &nbsp; Interested in Web application development ,Machine Learning and Optimization</li>
+<!--                 <li>🤔 &nbsp; Interested in Web application development ,Machine Learning and Optimization</li> -->
        </ul>

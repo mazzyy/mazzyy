@@ -7,5 +7,4 @@
     <li>👑 &nbsp; Full Stack Developer, Cloud Expert, and Data Scientist</li>
     <li>🔧 &nbsp; Proficient in Python, JavaScript, Azure, Docker, Kubernetes, Django, React, CI/CD, and Terraform</li>
     <li>🌟 &nbsp; Skilled in Infrastructure as Code (IaC), Cloud Security, and DevOps</li>
-    <li>🔥 &nbsp; Passionate about web application development, machine learning, and optimization</li>
 </ul>

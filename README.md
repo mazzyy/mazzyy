@@ -5,5 +5,5 @@
     <li>📚&nbsp; Former Cloud Architect at Puma</li>
     <li>🚀&nbsp; Currently Kubernetes Developer at Siemens Healthineers</li>
     <li>👑 &nbsp; Full Stack Developer, Cloud Expert, and Data Scientist</li>
-    <li>🔧 &nbsp; Proficient in Python, JavaScript, Azure, Docker, Kubernetes, Django, React, CI/CD, and Terraform</li>
+    <li>🔧 &nbsp; Proficient in Python, JavaScript, Azure, Docker, Kubernetes, Django, React, CI/CD,MlOps and Terraform</li>
 </ul>
